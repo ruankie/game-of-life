@@ -1,3 +1,5 @@
+![alt text](https://github.com/ruankie/game-of-life/raw/main/images/game-of-life.png "game-of-life")
+
 # Description
 This version of the Game of Life was created with the `pygame` library in `Python`. It is based on [A Plus Coding's YouTube video](https://www.youtube.com/watch?v=GKe1aGQlKDY&list=PLryDJVmh-ww1OZnkZkzlaewDrhHy2Rli2).
 
@@ -29,8 +31,8 @@ These four simple rules govern the dynamics of the game. Although they are simpl
 
 
 # References
-> [1] Wikipedia, *Conway's Game of Life*, https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-> [2] A Plus Coding, *Conways Game of Life in python*, YouTube, https://www.youtube.com/watch?v=GKe1aGQlKDY&list=PLryDJVmh-ww1OZnkZkzlaewDrhHy2Rli2
+> * [1] Wikipedia, *Conway's Game of Life*, https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+> * [2] A Plus Coding, *Conways Game of Life in python*, YouTube, https://www.youtube.com/watch?v=GKe1aGQlKDY&list=PLryDJVmh-ww1OZnkZkzlaewDrhHy2Rli2
 
 ***
 
