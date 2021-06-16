@@ -1,4 +1,4 @@
-![alt text](https://github.com/ruankie/game-of-life/raw/main/images/game-of-life.png "game-of-life")
+![alt text](https://github.com/ruankie/game-of-life/raw/main/images/cgol-light.png "game-of-life")
 
 # Description
 This version of the Game of Life was created with the `pygame` library in `Python`. It is based on [A Plus Coding's YouTube video](https://www.youtube.com/watch?v=GKe1aGQlKDY&list=PLryDJVmh-ww1OZnkZkzlaewDrhHy2Rli2).
